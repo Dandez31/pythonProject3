@@ -16,6 +16,7 @@ def is_contains(string, list_to_search):
     lower_string = string.lower()
     return lower_string in lower_list
 
+
 info = string_info("Capybara")
 print(f"string_info('Capybara') = {info}")
 info = string_info("Armageddon")
