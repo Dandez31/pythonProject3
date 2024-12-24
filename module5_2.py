@@ -11,8 +11,8 @@ class House:
         return title
 
 
-hightower = House('Башня', 12)
-warehouse = House('Склад', 4)
+hightower = House('ЖК Эльбрус', 10)
+warehouse = House('ЖК Акация', 20)
 
 print(hightower)
 print(warehouse)
